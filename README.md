@@ -1,3 +1,7 @@
+## Autor
+- Nombre : Maria Fernanda Nevarez Ochoa
+-Email : a23311026@uthermosillo.edu.mx
+-GitHub : [@mxfxxr](https://github.com/mxfxxr)
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
